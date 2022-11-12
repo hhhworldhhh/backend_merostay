@@ -9,7 +9,7 @@ SECRET_KEY = 'django-insecure-y7=^navv&hn=17k$g*vl9b)v58kh921=^q9&h&#4(ge6uz13j@
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = ['https://backendmerostay-production.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = ['https://backendmerostay-production.up.railway.app']
 
 
 # Application definition
